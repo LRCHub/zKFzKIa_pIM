@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Chlorine",
+  "base_artist": "twenty one pilots",
+  "createdAt": "2026-02-16T05:27:49.816860Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chlorine",
+      "artist": "Title Fight",
+      "has_synced": true,
+      "path": "select/01_Chlorine_Title_Fight.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CHLORINE",
+      "artist": "XYLØ",
+      "has_synced": true,
+      "path": "select/02_CHLORINE_XYLØ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chlorine",
+      "artist": "Birthh",
+      "has_synced": true,
+      "path": "select/03_Chlorine_Birthh.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chlorine",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/04_Chlorine_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Petrol & Chlorine",
+      "artist": "Silverchair",
+      "has_synced": true,
+      "path": "select/05_Petrol_&_Chlorine_Silverchair.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lane Boy / Redecorate / Chlorine - Livestream Version",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/06_Lane_Boy___Redecorate___Chlorine_-_Livestream_Version_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chlorine & Wine",
+      "artist": "Baroness",
+      "has_synced": true,
+      "path": "select/07_Chlorine_&_Wine_Baroness.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chlorine - Alternative Mix",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/08_Chlorine_-_Alternative_Mix_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chlorine (Instrumental)",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/09_Chlorine_(Instrumental)_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chlorine (Mexico City)",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/10_Chlorine_(Mexico_City)_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lane Boy \u0000 Redecorate \u0000 Chlorine (Livestream Version)",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/11_Lane_Boy_\u0000_Redecorate_\u0000_Chlorine_(Livestream_Version)_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chlorine & Wine",
+      "artist": "Baroness",
+      "has_synced": true,
+      "path": "select/12_Chlorine_&_Wine_Baroness.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chlorine",
+      "artist": "Title Fight",
+      "has_synced": true,
+      "path": "select/13_Chlorine_Title_Fight.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chlorine",
+      "artist": "The Districts",
+      "has_synced": true,
+      "path": "select/14_Chlorine_The_Districts.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chlorine",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/15_Chlorine_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lane Boy / Redecorate / Chlorine  (Livestream Version)",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/16_Lane_Boy___Redecorate___Chlorine_(Livestream_Version)_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Chlorine",
+      "artist": "Trophy Eyes",
+      "has_synced": true,
+      "path": "select/17_Chlorine_Trophy_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Chlorine",
+      "artist": "Trophy Eyes",
+      "has_synced": true,
+      "path": "select/18_Chlorine_Trophy_Eyes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chlorine",
+      "artist": "twenty one pilots",
+      "has_synced": false,
+      "path": "select/pl_01_Chlorine_twenty_one_pilots.txt"
+    }
+  ]
+}
